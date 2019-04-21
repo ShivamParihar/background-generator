@@ -1,4 +1,6 @@
+var _ = require('lodash');
 
+console.log(_);
 
 var input1 = document.querySelector(".input1");
 var input2 = document.querySelector(".input2");

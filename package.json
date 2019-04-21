@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "build": "browserify demo.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamParihar/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivamParihar/background-generator/issues"
+  },
+  "homepage": "https://github.com/ShivamParihar/background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
